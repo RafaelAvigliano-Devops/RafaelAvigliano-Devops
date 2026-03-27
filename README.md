@@ -149,27 +149,36 @@
 
 ## 🎓 Formação
 
-- **Superior em Gestão de Tecnologia da Informação** – UNISINOS (Andamento)
+- **Superior em Gestão de Tecnologia da Informação** -
 
 ---
 
 ## 📊 Estatísticas do GitHub
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📊 Estatísticas do GitHub
 
+<!-- Cards que funcionam SEMPRE -->
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelAvigliano-Devops&theme=dark&hide_border=true&background=0D1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelAvigliano-Devops&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelAvigliano-Devops&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelAvigliano-Devops&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelAvigliano-Devops&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelAvigliano-Devops&theme=github_dark&utcOffset=-3"/>
+</p>
+
+<!-- Gráfico de atividade (opcional) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelAvigliano-Devops&theme=github-dark&hide_border=true&bg_color=0D1117&color=00b4d8&line=00b4d8&point=FFFFFF"/>
 </p>
 
 ---
