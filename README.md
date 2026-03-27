@@ -154,18 +154,22 @@
 ---
 
 ## 📊 Estatísticas do GitHub
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00b4d8&icon_color=00b4d8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00b4d8"/>
-</p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark&hide_border=true&background=0D1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=github-dark&hide_border=true&bg_color=0D1117&color=00b4d8&line=00b4d8&point=FFFFFF"/>
 </p>
 
 ---
