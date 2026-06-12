@@ -116,11 +116,12 @@
 
 | Período | Cargo | Empresa |
 |---------|-------|---------|
-| Ago/2024 – Dez/2025 | **DevOps / SRE** | **Octafy LAD** |
-| Mar/2024 – Ago/2024 | **DevOps Pleno** | **Interop** |
-| Set/2023 – Mar/2024 | **Analista de TI & DevOps Pleno** | **Embalsoft** |
+| Ago/2024 – Dez/2025 | **Senior DevOps Engineer | Site Reliability Engineer (SRE)** | **Octafy LAD** |
+| Ago/2024 – Dez/2025 | **Senior DevOps Engineer | Site Reliability Engineer (SRE)** | **Octafy LAD** |
+| Mar/2024 – Ago/2024 | **DevOps Engineer (Pleno)** | **Interop** |
+| Set/2023 – Mar/2024 | **Analista DevOps & Cloud Engineer** | **Embalsoft** |
 | Jan/2020 – Atual | **Consultor Cloud & DevOps** | **Avigliano (Autônomo)** |
-| Abr/2019 – Ago/2023 | **Analista de Infraestrutura Pleno** | **Saúde PAS** |
+| Abr/2019 – Ago/2023 | **Analista de Infraestrutura & Cloud Pleno** | **Saúde PAS** |
 | Jan/2013 – Mar/2019 | **Analista de Infraestrutura Júnior** | **SERVICOOP** |
 
 ### 📌 Destaques de Atuação
