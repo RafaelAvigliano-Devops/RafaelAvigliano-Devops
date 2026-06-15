@@ -1,7 +1,7 @@
 <!-- Banner Principal -->
 <!-- Banner Animado com Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&lines=Rafael+Avigliano;Especialista+em+Infraestrutura;Cloud+%7C+DevOps+%7C+SRE;Arquiteto+de+Soluções+Escaláveis;Automação+e+Confiabilidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=500&color=00B4D8&center=true&vCenter=true&width=1000&lines=Rafael+Avigliano;Especialista+em+Infraestrutura;Cloud+%7C+DevOps+%7C+SRE;Arquiteto+de+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;Automa%C3%A7%C3%A3o+e+Confiabilidade" alt="Typing SVG" />
 </p>
 
 <!-- Título e Subtítulo -->
