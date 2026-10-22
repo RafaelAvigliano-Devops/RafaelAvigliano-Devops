@@ -116,8 +116,8 @@
 
 | Período | Cargo | Empresa |
 |---------|-------|---------|
-| Fev/2025 – Atual | **Senior DevOps Engineer | Site Reliability Engineer (SRE)** | **Creare Sistemas LTDA** |
-| Ago/2024 – Dez/2025 | **Senior DevOps Engineer | Site Reliability Engineer (SRE)** | **Octafy LAD** |
+| Fev/2025 – Atual | **Senior DevOps Engineer/SRE | **Creare Sistemas LTDA** |
+| Ago/2024 – Dez/2025 | **Senior DevOps Engineer/SRE | **Octafy LAD** |
 | Mar/2024 – Ago/2024 | **DevOps Engineer (Pleno)** | **Interop** |
 | Set/2023 – Mar/2024 | **Analista DevOps & Cloud Engineer** | **Embalsoft** |
 | Jan/2020 – Atual | **Consultor Cloud & DevOps** | **Avigliano (Autônomo)** |
